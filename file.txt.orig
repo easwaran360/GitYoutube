@@ -1,0 +1,8 @@
+Hello This is the First line in File1
+<<<<<<< HEAD
+Hello This is the Second line in the file1 
+Hello This is Third line in Dev Branch
+=======
+Hello This is the Second line in the file1
+This is Third file in the file1 in master branch 
+>>>>>>> master
